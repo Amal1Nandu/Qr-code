@@ -19,5 +19,4 @@ QRCode.toDataURL(code, { errorCorrectionLevel: 'H' })
   })
 
 
-  generateQR(code);
   
